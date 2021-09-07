@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "next": "9.5.5",
+    "next-auth": "^3.29.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "react-markdown": "5.0.2"
